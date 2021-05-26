@@ -1,6 +1,8 @@
-# cowin
+# Cowin vaccine tracker App
 
-A new Flutter project.
+## Aim
+To notify when the vaccine slots become available in the area.
+Uses [Cowin API](https://apisetu.gov.in/public/marketplace/api/cowin) to get the information.
 
 ## Getting Started
 
