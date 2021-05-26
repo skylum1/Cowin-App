@@ -4,7 +4,7 @@
 To notify when the vaccine slots become available in the area.
 Uses [Cowin API](https://apisetu.gov.in/public/marketplace/api/cowin) to get the information.
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
